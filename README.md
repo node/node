@@ -1,6 +1,6 @@
 ### Hi node is here 👋
 
-- I currently focus on engineer career & open souce governance , and previously focus on Bioinformatics,data visualization,IM,search engine .
+- I currently focus on engineer career & open source governance , and previously focus on Bioinformatics,data visualization,IM,search engine .
 - 📫 Reach me by wechat : nodexy
 
 <!--
