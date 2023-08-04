@@ -1,7 +1,7 @@
 ### Hi node is here 👋
 
-- I currently focus on tech leadership & open source governance , and previously focus on Bioinformatics,data visualization,IM,search engine .
-- 📫 Reach me by wechat : nodexy
+- I currently focus on tech leadership & open source governance & platform engineering, and previously focus on Bioinformatics,data visualization,IM,search engine .
+- 📫 Reach me by wechat/gmail : nodexy 
 
 <!--
 **node/node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
