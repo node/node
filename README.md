@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=node&theme=flat&column=9&margin-w=10" alt="logo" height="160" align="center" />
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=node.home)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=node.node)
