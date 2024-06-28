@@ -1,10 +1,15 @@
 ### Hi node is here 👋
 
-- I currently focus on tech leadership & open source governance & platform engineering, and previously focus on Bioinformatics,data visualization,IM,search engine.
-- Founder of [PECommunity](https://github.com/PECommunity/community) ~ a native platform engineering community
-- EngEx(Engineer Experinece) advocate
-- [LFAPAC Open Source Evangelist](https://evangelists.linuxfoundation.cn/) , [TED Translator/Reviewer](https://www.ted.com/profiles/555079/translator)
-- 📫 Reach me by WeChat/Gmail : nodexy 
+- 😄 I currently focus on tech leadership & open source governance & platform engineering, and previously focus on Bioinformatics,data visualization,IM,search engine.
+- 🔭 Founder of [PECommunity](https://github.com/PECommunity/community) ~ a native platform engineering community
+- 🔭 Creator of EngEx(Engineer Experinece) 
+- 🔭 [LFAPAC Open Source Evangelist](https://evangelists.linuxfoundation.cn/) , [TED Translator/Reviewer](https://www.ted.com/profiles/555079/translator)
+- 👯 I’m looking to collaborate on these projects & communities:
+  - [OSKM](https://github.com/OpenSourceKM/oskm) 一份开源相关的知识地图
+  - [Platform Engineering Glossary](https://github.com/PECommunity/platform-engineering-glossary)
+  - [BayOSS](https://github.com/bayoss) 大湾区开源驿站
+  - [Tools for OSPO](https://github.com/node/Tools-for-OSPO)
+- 💬  Reach me by WeChat/Gmail : nodexy 
 
 <!--
 - 🔭 I’m currently working on ...
