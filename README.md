@@ -2,7 +2,7 @@
 
 - 😄 I currently focus on tech leadership & open source governance & platform engineering, and previously focus on Bioinformatics,data visualization,IM,search engine.
 - 🔭 Founder of [PECommunity](https://github.com/PECommunity/community) ~ a local platform engineering community in China
-- 🌱 Creator of EngEx(Engineer Experinece) concept
+- 🌱 Creator of EngEx(Engineer Experinece) concept, AED(Architecture Evolution Dynamics) concept
 - 🔭 [LFAPAC Open Source Evangelist](https://evangelists.linuxfoundation.cn/) , [TED Translator/Reviewer](https://www.ted.com/profiles/555079/translator)
 - 👯 I’m looking to collaborate on these projects & communities:
   - [OSKM](https://github.com/OpenSourceKM/oskm) 一份开源相关的知识地图
