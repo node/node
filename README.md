@@ -9,6 +9,7 @@
   - [Platform Engineering Glossary](https://github.com/PECommunity/platform-engineering-glossary)
   - [BayOSS](https://github.com/bayoss) 大湾区开源驿站
   - [Tools for OSPO](https://github.com/node/Tools-for-OSPO)
+  - [OSPO CC](https://ospo.cc) OSPO 中文社区 
 - 💬 Reach me by WeChat/Gmail : nodexy
 - 📻 HAM BG7KAY 73 
 
