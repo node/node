@@ -1,16 +1,27 @@
 ### Hi node is here 👋
 
-- 😄 I currently focus on tech leadership & open source governance & platform engineering, and previously focus on Bioinformatics,data visualization,IM,search engine.
-- 🔭 Founder of [PECommunity](https://github.com/PECommunity/community) ~ a local platform engineering community in China
-- 🌱 Creator of EngEx(Engineer Experinece) concept, AED(Architecture Evolution Dynamics) concept
-- 🔭 [LFAPAC Open Source Evangelist](https://evangelists.linuxfoundation.cn/) , [TED Translator/Reviewer](https://www.ted.com/profiles/555079/translator)
-- 👯 I’m looking to collaborate on these projects & communities:
-  - [OSKM](https://github.com/OpenSourceKM/oskm) 一份开源相关的知识地图
+- 😄 I currently focus on tech leadership
+
+& platform engineering | DevEx : 
+  - 🔭 Founder of [PECommunity](https://github.com/PECommunity/community) ~ a local platform engineering community in China
   - [Platform Engineering Glossary](https://github.com/PECommunity/platform-engineering-glossary)
+  - 🌱 Creator of EngEx(Engineer Experinece) concept, AED(Architecture Evolution Dynamics) concept
+  - DXC Program <https://dxcp.org/>
+
+& open source governance | OSPO : 
+  - 🔭 [LFAPAC Open Source Evangelist](https://evangelists.linuxfoundation.cn/) 
   - [BayOSS](https://github.com/bayoss) 大湾区开源驿站
   - [Tools for OSPO](https://github.com/node/Tools-for-OSPO)
   - [OSPO CC](https://ospo.cc) OSPO 中文社区 
-- 💬 Reach me by WeChat/Gmail : nodexy
+
+and previously focused on Bioinformatics, data visualization, IM, and search engines.
+
+- 👯 I love open collobration & communities:
+  - [OSKM](https://github.com/OpenSourceKM/oskm) 一份开源相关的知识地图
+  - [TED Translator/Reviewer](https://www.ted.com/profiles/555079/translator)
+
+Contact me
+- 💬 Reach me by WeChat/Gmail: nodexy
 - 📻 HAM BG7KAY 73 
 
 
